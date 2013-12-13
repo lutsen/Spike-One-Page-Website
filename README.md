@@ -1,4 +1,4 @@
-Spike-One-Page-Website
+Spike One Page Website
 ======================
 
 This PHP script allows you to create One Page Websites that are editable in Spike CMS.
