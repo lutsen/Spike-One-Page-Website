@@ -8,5 +8,8 @@ It merges different pages in a Spike website into one page, and creates a naviga
 At the same time, it allows the website to be indexed by Google as seperate pages using the Ajax Crawling Specifications.
 https://developers.google.com/webmasters/ajax-crawling/docs/specification
 
+Two example Spike HTML template files are included to explain the main principles.
+
 Create a Spike account here: http://app.spikecms.com/user/subscribe.php
+
 More about the Spike API here: http://www.spikecms.com/docs/
